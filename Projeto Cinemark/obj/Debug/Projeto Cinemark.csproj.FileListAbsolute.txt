@@ -1,0 +1,10 @@
+C:\Users\gui_k\source\repos\Projeto Cinemark\Projeto Cinemark\bin\Debug\Projeto Cinemark.exe.config
+C:\Users\gui_k\source\repos\Projeto Cinemark\Projeto Cinemark\bin\Debug\Projeto Cinemark.exe
+C:\Users\gui_k\source\repos\Projeto Cinemark\Projeto Cinemark\bin\Debug\Projeto Cinemark.pdb
+C:\Users\gui_k\source\repos\Projeto Cinemark\Projeto Cinemark\obj\Debug\Projeto Cinemark.csproj.AssemblyReference.cache
+C:\Users\gui_k\source\repos\Projeto Cinemark\Projeto Cinemark\obj\Debug\Projeto_Cinemark.Form1.resources
+C:\Users\gui_k\source\repos\Projeto Cinemark\Projeto Cinemark\obj\Debug\Projeto_Cinemark.Properties.Resources.resources
+C:\Users\gui_k\source\repos\Projeto Cinemark\Projeto Cinemark\obj\Debug\Projeto Cinemark.csproj.GenerateResource.cache
+C:\Users\gui_k\source\repos\Projeto Cinemark\Projeto Cinemark\obj\Debug\Projeto Cinemark.csproj.CoreCompileInputs.cache
+C:\Users\gui_k\source\repos\Projeto Cinemark\Projeto Cinemark\obj\Debug\Projeto Cinemark.exe
+C:\Users\gui_k\source\repos\Projeto Cinemark\Projeto Cinemark\obj\Debug\Projeto Cinemark.pdb
